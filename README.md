@@ -8,7 +8,13 @@ Welcome to my GitHub profile! I'm passionate about cloud-native applications, op
 - 🤖 Expertise in container orchestration with Kubernetes and OpenShift.
 - 💻 Strong background in Linux, ensuring robust and secure environments for development and deployment.
 - 🌐 Active contributor to open-source projects. I believe in the power of community-driven development.
-- 📚 Fluent in multiple programming languages including Python, Bash, Go, C++, and more.
+
+## 🛠 Technologies & Tools
+
+- **Languages:** Python, JavaScript, Java, C#
+- **Tools:** Kubernetes, OpenShift, Ansible, Terraform, Azure
+
+  
 
 ## My Projects 📁
 
