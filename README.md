@@ -1,4 +1,4 @@
-# Hello, I'm Marcus!
+# Hello, there!
 
 Welcome to my GitHub profile! I'm passionate about cloud-native applications, open-source development, and technologies like Kubernetes and OpenShift. My journey in tech is driven by my enthusiasm for Linux and efficient software development.
 
